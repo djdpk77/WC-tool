@@ -8,10 +8,12 @@
 - Count the number of **lines** in a file.
 - Count the number of **words** in a file.
 - Count the number of **characters** in a file.
+- Count the number of **bytes** in a file.
 - Support for command-line options to selectively display counts:
   - `-l`: Display only the line count.
   - `-w`: Display only the word count.
-  - `-c`: Display only the character count.
+  - `-c`: Display only the byte count.
+  - `-m`: Display only the character count.
 
 ---
 
